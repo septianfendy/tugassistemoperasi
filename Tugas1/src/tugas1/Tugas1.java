@@ -12,7 +12,8 @@ public class Tugas1 {
 
    
     public static void main(String[] args) {
-        int t = 5;
+        int t = 10;
+        String a = "sempak";
         for(int i=0; i<t; i++){
             for(int j=0; j<t; j++){
                 if(i==2 || j==2){
